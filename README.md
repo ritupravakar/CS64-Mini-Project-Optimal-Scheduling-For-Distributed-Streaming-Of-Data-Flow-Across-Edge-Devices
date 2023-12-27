@@ -1,4 +1,4 @@
-Scheduler code for ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge
+Scheduler code for ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge.
 
 Project Report and results screenshots 
 
