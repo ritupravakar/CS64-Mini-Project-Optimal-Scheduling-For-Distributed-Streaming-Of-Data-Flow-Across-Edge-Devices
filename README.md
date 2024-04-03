@@ -10,4 +10,4 @@ Publication
 https://ieeexplore.ieee.org/abstract/document/9198674?casa_token=ip4YQ_P3ZYAAAAAA:Utdw5MSLEHqW94bhN6MrEHa9mI0o9qDrU2iBmozAHT_jc3t07hAiP_9ITWewwyeYQ1b24cgb4Q
 
 
-We thank Indian Institute of Science‘s Department of Computational and Data Sciences (CDS) for supporting us throughout this project.
+We thank Prof. Yogesh Simmhan, Sumit Kumar Monga, Pushkara Ravindra, and Aakash Khochare of the Indian Institute of Science's Department of Computational and Data Sciences (CDS) for supporting and guiding us throughout this project of Distributed Systems Research on Emerging Applications & Machines(DREAM: Lab).
