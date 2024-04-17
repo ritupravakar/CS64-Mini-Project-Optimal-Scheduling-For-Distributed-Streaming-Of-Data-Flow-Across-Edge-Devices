@@ -1,5 +1,7 @@
 ## CS64 - Mini Project - Scheduler code for ECHO: An Adaptive Orchestration Platform for Hybrid Dataflows across Cloud and Edge.
 
+The project entitled “OPTIMAL SCHEDULING ALGORITHM FOR DISTRIBUTED STREAMING OF DATA FLOW ACROSS EDGE DEVICES AND CLOUD” was completed and written by us under the guidance of Dr  Geetha J, Dept. of CSE, Bangalore.
+
 #### Team Members
 
 | Name  | USN |
